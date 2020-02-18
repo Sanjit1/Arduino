@@ -9,6 +9,8 @@ can be connected to software on your computer (e.g. Flash, Processing and MaxMSP
 The boards can be assembled by hand or purchased preassembled; the open-source
 IDE can be downloaded for free at [https://arduino.cc](https://www.arduino.cc/en/Main/Software)
 
+![GitHub stars](https://img.shields.io/github/stars/arduino/arduino?style=plastic)
+
 ## More info at
 
 -  [Our website](https://www.arduino.cc/)
